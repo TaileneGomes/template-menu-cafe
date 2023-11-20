@@ -17,7 +17,7 @@ body {
   .tm-main-content { background-color: #ffffff; }
   
   #tm-intro-img {
-    background-image: url(../img/chilling-cafe-01.jpg);
+    background-image: url(../img/cafe-01.jpg);
     background-position: center;
     background-size: cover;
     min-height: 425px;
